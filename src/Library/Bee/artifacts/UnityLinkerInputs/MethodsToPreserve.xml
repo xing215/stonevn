@@ -1,0 +1,23 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="BoardManager">
+			<method name="OnUseCardButtonClicked"/>
+		</type>
+		<type fullname="Cell">
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+		</type>
+		<type fullname="GUIManager">
+			<method name="HideStartMenuPanel"/>
+			<method name="ToggleMute"/>
+		</type>
+	</assembly>
+</linker>
